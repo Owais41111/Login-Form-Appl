@@ -19,7 +19,7 @@ This project is inspired by a double-slider UI concept to create a smooth user e
 
 ## 📸 Preview
 
-![Login Form Preview](https://owais41111.github.io/Login-Form-Appl/) <!-- Replace with your own hosted image or GIF -->
+![Login Form Preview](https://github.com/user-attachments/assets/d95bdbfc-e095-4a1e-84ea-190407e28c23) <!-- Replace with your own hosted image or GIF -->
 
 ---
 
